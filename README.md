@@ -11,7 +11,7 @@ A user query about the those web blog contents and then the app answer it.　　
 1. Data Preparation  
     1. Scrapt the Web Pages  
     We need to gather the data from Web Blog about the details, which Q&A refer it to answer the query.  
-    ** Please be careful about the copyright of the web page.
+    ** Please be careful about the copyright of the web page.  
     The file is [here](scraping/scraping.ipynb)  
     3. (Optional) Format the texts by using ChatGPT.  
 
