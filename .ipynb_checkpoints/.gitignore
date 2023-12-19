@@ -1,0 +1,11 @@
+# Jupyter Notebook関連
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python仮想環境関連 (仮想環境を使用する場合)
+venv/
+env/
+*.venv/
+*.env/
+*/*.env
